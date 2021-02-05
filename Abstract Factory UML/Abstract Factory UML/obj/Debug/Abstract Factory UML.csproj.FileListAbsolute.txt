@@ -1,0 +1,7 @@
+C:\Users\Mason\source\repos\Abstract Factory UML\Abstract Factory UML\bin\Debug\Abstract Factory UML.exe.config
+C:\Users\Mason\source\repos\Abstract Factory UML\Abstract Factory UML\bin\Debug\Abstract Factory UML.exe
+C:\Users\Mason\source\repos\Abstract Factory UML\Abstract Factory UML\bin\Debug\Abstract Factory UML.pdb
+C:\Users\Mason\source\repos\Abstract Factory UML\Abstract Factory UML\obj\Debug\Abstract Factory UML.csprojAssemblyReference.cache
+C:\Users\Mason\source\repos\Abstract Factory UML\Abstract Factory UML\obj\Debug\Abstract Factory UML.csproj.CoreCompileInputs.cache
+C:\Users\Mason\source\repos\Abstract Factory UML\Abstract Factory UML\obj\Debug\Abstract Factory UML.exe
+C:\Users\Mason\source\repos\Abstract Factory UML\Abstract Factory UML\obj\Debug\Abstract Factory UML.pdb
